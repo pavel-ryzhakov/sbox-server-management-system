@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\AdminService",
+    "\\src\\Services\\AdminService\\AdminService.Api",
+    "\\src\\Services\\AdminService\\AdminService.Api\\Properties",
+    "\\src\\Services\\EconomyService\\EconomyService.Api"
+  ],
+  "SelectedNode": "\\src\\Services\\AdminService\\AdminService.Api\\Properties",
+  "PreviewInSolutionExplorer": false
+}

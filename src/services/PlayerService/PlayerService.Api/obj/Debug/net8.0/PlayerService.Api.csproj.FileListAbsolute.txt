@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.AssemblyInfo.cs
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\sbox-server-management-system\PlayerService.Api\obj\Debug\net8.0\PlayerService.Api.MvcApplicationPartsAssemblyInfo.cache
