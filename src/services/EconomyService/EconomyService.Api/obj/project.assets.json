@@ -522,11 +522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Api\\EconomyService.Api.csproj",
+      "projectUniqueName": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Api\\EconomyService.Api.csproj",
       "projectName": "EconomyService.Api",
-      "projectPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Api\\EconomyService.Api.csproj",
+      "projectPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Api\\EconomyService.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Api\\obj\\",
+      "outputPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

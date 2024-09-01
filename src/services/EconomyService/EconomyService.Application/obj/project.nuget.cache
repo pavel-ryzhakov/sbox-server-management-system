@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lazqJrvCPIQ=",
+  "dgSpecHash": "CSFCYZaN5U0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Application\\EconomyService.Application.csproj",
+  "projectFilePath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Application\\EconomyService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

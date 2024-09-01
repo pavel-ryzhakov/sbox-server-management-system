@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uyRhWdKE85IJVD87Qdwbj5kzOJ6bP7wtjPR65ZljeEI=",
+  "Source": "SocialService.Api",
+  "BasePath": "_content/SocialService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

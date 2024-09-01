@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RbkEF2YPasE=",
+  "dgSpecHash": "WdwaYIhfFuQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EventService.Application\\EventService.Application.csproj",
+  "projectFilePath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EventService\\EventService.Application\\EventService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

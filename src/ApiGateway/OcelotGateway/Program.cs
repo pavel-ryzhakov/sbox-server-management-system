@@ -2,6 +2,10 @@ namespace OcelotGateway;
 
 public class Program
 {
+    /// <summary>
+    /// Entry point of the Ocelot Gateway application.
+    /// </summary>
+    /// <param name="args">An array of command-line arguments.</param>
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);

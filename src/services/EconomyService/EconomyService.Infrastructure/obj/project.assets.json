@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Infrastructure\\EconomyService.Infrastructure.csproj",
+      "projectUniqueName": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Infrastructure\\EconomyService.Infrastructure.csproj",
       "projectName": "EconomyService.Infrastructure",
-      "projectPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Infrastructure\\EconomyService.Infrastructure.csproj",
+      "projectPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Infrastructure\\EconomyService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EconomyService.Infrastructure\\obj\\",
+      "outputPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EconomyService\\EconomyService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

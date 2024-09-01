@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EventService.Core\\EventService.Core.csproj",
+      "projectUniqueName": "C:\\repository\\sbox-server-management-system\\src\\Services\\EventService\\EventService.Core\\EventService.Core.csproj",
       "projectName": "EventService.Core",
-      "projectPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EventService.Core\\EventService.Core.csproj",
+      "projectPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EventService\\EventService.Core\\EventService.Core.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\sbox-server-management-system\\EventService.Core\\obj\\",
+      "outputPath": "C:\\repository\\sbox-server-management-system\\src\\Services\\EventService\\EventService.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

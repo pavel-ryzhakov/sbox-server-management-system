@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\bin\Debug\net8.0\SocialService.Application.deps.json
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\bin\Debug\net8.0\SocialService.Application.dll
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\bin\Debug\net8.0\SocialService.Application.pdb
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.dll
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\refint\SocialService.Application.dll
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\SocialService.Application.pdb
+C:\Users\User\source\repos\sbox-server-management-system\SocialService.Application\obj\Debug\net8.0\ref\SocialService.Application.dll
